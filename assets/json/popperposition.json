@@ -1,0 +1,69 @@
+{
+    "positions": {
+        "level_1": {
+            "poppers": {
+                "popper_1": {"color": "popperPurple", "x": 100, "y": 100, "clickRequired": 1},
+                "popper_2": {"color": "popperPurple", "x": 300, "y": 500, "clickRequired": 1},
+                "popper_3": {"color": "popperPurple", "x": 500, "y": 800, "clickRequired": 1},
+                "popper_4": {"color": "popperPurple", "x": 800, "y": 100, "clickRequired": 1},
+                "popper_5": {"color": "popperPurple", "x": 800, "y": 500, "clickRequired": 1},
+                "popper_6": {"color": "popperPurple", "x": 1000, "y": 800, "clickRequired": 1}
+            },
+            "totalTap": 2
+        },
+
+        "level_2": {
+            "poppers": {
+            "popper_1": {"color": "popperPurple", "x": 300, "y": 100,  "clickRequired": 1},
+            "popper_2": {"color": "popperPurple", "x": 300, "y": 500,  "clickRequired": 1},
+            "popper_3": {"color": "popperPurple", "x": 800, "y": 800,  "clickRequired": 1},
+            "popper_4": {"color": "popperBlue", "x": 800, "y": 100,    "clickRequired": 2},
+            "popper_5": {"color": "popperPurple", "x": 800, "y": 500,  "clickRequired": 1},
+            "popper_6": {"color": "popperPurple", "x": 1500, "y": 500, "clickRequired": 1},
+            "popper_7": {"color": "popperPurple", "x": 300, "y": 800, "clickRequired": 1},
+            "popper_8": {"color": "popperPurple", "x": 1500, "y": 800, "clickRequired": 1}
+        },
+        "totalTap": 1
+           
+        },
+
+        "level_3": {
+            "poppers": {
+            "popper_1": {"color": "popperPurple", "x": 30, "y": 100, "clickRequired": 1},
+            "popper_2": {"color": "popperPurple", "x": 30, "y": 500, "clickRequired": 1},
+            "popper_3": {"color": "popperPurple", "x": 1500, "y": 100, "clickRequired": 1},
+            "popper_4": {"color": "popperBlue", "x": 800, "y": 100, "clickRequired": 2},
+            "popper_5": {"color": "popperBlue", "x": 800, "y": 500, "clickRequired": 2},
+            "popper_6": {"color": "popperBlue", "x": 1500, "y": 500, "clickRequired": 2}
+        },
+        "totalTap": 2
+           
+        },
+
+        "level_4": {
+            "poppers": {
+            "popper_1": {"color": "popperPurple", "x": 300, "y": 100, "clickRequired": 1},
+            "popper_2": {"color": "popperPurple", "x": 300, "y": 500, "clickRequired": 1},
+            "popper_3": {"color": "popperBlue", "x": 800, "y": 800, "clickRequired": 2},
+            "popper_4": {"color": "popperBlue", "x": 800, "y": 100, "clickRequired": 2},
+            "popper_5": {"color": "popperPurple", "x": 1500, "y": 500, "clickRequired": 1},
+            "popper_6": {"color": "popperYellow", "x": 800, "y": 500, "clickRequired": 3}
+        },
+        "totalTap": 2
+           
+        },
+
+        "level_5": {
+            "poppers": {
+            "popper_1": {"color": "popperPurple", "x": 300, "y": 100, "clickRequired": 1},
+            "popper_2": {"color": "popperPurple", "x": 300, "y": 500, "clickRequired": 1},
+            "popper_3": {"color": "popperBlue", "x": 800, "y": 800, "clickRequired": 2},
+            "popper_4": {"color": "popperPurple", "x": 800, "y": 100, "clickRequired": 1},
+            "popper_5": {"color": "popperYellow", "x": 800, "y": 500, "clickRequired": 3},
+            "popper_6": {"color": "popperYellow", "x": 1500, "y": 500, "clickRequired": 3}
+        },
+        "totalTap": 3
+           
+        }
+    }
+}
